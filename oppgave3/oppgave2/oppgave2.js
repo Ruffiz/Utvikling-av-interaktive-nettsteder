@@ -61,5 +61,3 @@ const main = () => {
 };
 
 main();
-
-//Added a comment to see if git issue is fixed
